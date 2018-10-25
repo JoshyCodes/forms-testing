@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://creativefusehelpdesk.netlify.com/* https://help.creativefuse.org/:splat 301!
